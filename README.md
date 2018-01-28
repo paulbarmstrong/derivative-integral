@@ -2,8 +2,8 @@
 
 ## Details
 
-Author: Paul Armstrong
-Date: November 2015 (but updated and uploaded more recently)
+* Author: Paul Armstrong
+* Date: November 2015 (but updated and uploaded more recently)
 
 ## Description
 
