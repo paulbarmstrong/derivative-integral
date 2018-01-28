@@ -4,6 +4,7 @@
 
 * Author: Paul Armstrong
 * Date: November 2015 (but updated and uploaded more recently)
+* Progress: 100%
 
 ## Description
 
@@ -20,6 +21,12 @@ It will give you:
 ```
 10.7x + 8
 ```
+
+## Usage
+
+To use the Derivative and Integral Calculator, simply execute the jar file included in the repository.
+
+If you want to take a look at the code, all of the code is included in the source_code folder.
 
 ## Why
 
