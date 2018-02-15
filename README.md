@@ -6,6 +6,10 @@
 * Date: November 2015 (but updated and uploaded more recently)
 * Progress: 100%
 
+## Demonstration
+
+![animated gif](https://i.imgur.com/jnJ6GHo.gif)
+
 ## Description
 
 This little application will calculate derivatives and integrals of decimal number polynomial functions according to the power rule. The application uses JOptionPane dialogs for input/output.
