@@ -50,7 +50,7 @@ public class Term implements Comparable<Term>
 			strExp = "^"+Integer.toString(Math.round(exponent));
 		
 		// If the coefficient is 1 then it can appear empty in the string
-		if (approxEqual(coefficient,1))
+		if (approxEqual(coefficient,1) && !approxEqual(exponent,0))
 		{
 			strCoef = "";
 		}
