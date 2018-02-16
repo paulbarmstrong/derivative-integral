@@ -8,23 +8,11 @@
 
 ## Demonstration
 
-![animated gif](https://i.imgur.com/jnJ6GHo.gif)
+![animated gif](https://i.imgur.com/VT1vj0H.gif)
 
 ## Description
 
-This little application will calculate derivatives and integrals of decimal number polynomial functions according to the power rule. The application uses JOptionPane dialogs for input/output.
-
-The application accepts some implicit and unsimplified forms of polynomials. For instance, if you tell it to calculate the derivative of:
-
-```
-3x + 5.35x^2 + 2 + 5x
-```
-
-It will give you:
-
-```
-10.7x + 8
-```
+This little application will calculate derivatives and integrals of decimal number polynomial functions according to the power rule. The application uses JOptionPane dialogs for input/output. As shown in the demonstration, the application accepts some implicit and unsimplified forms of polynomials.
 
 ## Usage
 
